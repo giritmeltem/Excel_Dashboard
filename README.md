@@ -1,10 +1,12 @@
+In this project, I cleaned and transformed bike purchase data and created a dynamic dashboard in Excel
+
 This dataset provides information on various attributes of individuals, focusing on their demographics, socioeconomic status, and purchasing behavior, 
 particularly regarding bike purchases.
 
 Columns:
 1- ID	
 2- Marital Status	
-3- Gender	4
+3- Gender	
 4- Income	
 5- Children	
 6- Education	
@@ -15,3 +17,4 @@ Columns:
 11- Region	
 12- Age	Purchased Bike
    
+Resource: AlextheAnalyst Excel Full Project
